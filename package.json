@@ -1,0 +1,23 @@
+{
+  "name": "vocab-registerer",
+  "version": "1.0.0",
+  "description": "Register English vocabulary words to your learning app via CLI. Auto-generates reading, meaning, example sentences using Gemini AI.",
+  "bin": {
+    "vocab-registerer": "./bin/cli.mjs"
+  },
+  "type": "module",
+  "keywords": [
+    "english",
+    "vocabulary",
+    "flashcard",
+    "language-learning",
+    "spaced-repetition",
+    "gemini",
+    "cli"
+  ],
+  "author": "kimurataiyou",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
